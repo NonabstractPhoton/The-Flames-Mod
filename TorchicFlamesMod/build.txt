@@ -1,0 +1,3 @@
+author = TheBlazingTorchic
+version = 2.2.2.0
+displayName = The Flames Mod
