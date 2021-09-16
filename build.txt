@@ -1,0 +1,4 @@
+author = TheBlazingTorchic
+version = 3.15
+displayName = The Flames Mod
+homepage = https://discord.gg/Xdcr9Dc
